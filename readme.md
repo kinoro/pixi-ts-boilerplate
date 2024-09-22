@@ -1,4 +1,2 @@
 # Refs
-https://goodgecko.co.uk/pixi-typescript-webpack.html
-
-https://stackoverflow.com/questions/65298689/uglifyjs-and-webpack-v5
+https://camkode.com/posts/basic-setup-your-pixi.js-app-with-typescript-and-webpack
